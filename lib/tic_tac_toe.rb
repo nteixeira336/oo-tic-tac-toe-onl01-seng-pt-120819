@@ -108,3 +108,4 @@ def play
 end 
 if won? 
   puts "Congratulations #{winner}!"
+  elsif draw?
